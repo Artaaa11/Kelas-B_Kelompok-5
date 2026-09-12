@@ -3,6 +3,6 @@
 **Class:** B
 **Group:** 5
 ### Group Members
-| No. | Name | Student ID | Role |
+| Nomor | Name | Student ID | Role |
 |---|---|---|---|
 | 1 | Juni Artaida S. | 2610312045 | Project Coordinator |
